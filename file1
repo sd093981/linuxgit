@@ -1,0 +1,14 @@
+"Git Commands"
+
+1. sudo apt update -y
+2. sudo apt install git -y
+3 which git
+4. git –version
+5. git config –global user.name “Shubham”
+6. git config –global user.email “shubhamdubey@gmail.com”
+7. git config –list
+8. git status
+9. mkdir “directory name”
+10. git init (run in directory)
+11. cat >file1 (create file in directory)
+12. git status
